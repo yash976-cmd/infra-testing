@@ -31,4 +31,4 @@ jobs:
       run: terraform apply -auto-approve
       env:
         AWS_ACCESS_KEY_ID: AKIA5RTSP5UF6W3HAJ7O
-        AWS_SECRET_ACCESS_KEY: dl3NXh95jaY+JCFMUCvn9QVfaCPktv8UKkexXaJ
+        AWS_SECRET_ACCESS_KEY: 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
